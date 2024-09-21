@@ -1,0 +1,55 @@
+#first, #first1{
+    word-spacing: 100px;
+    font-family: sans-serif;
+}	
+a{
+    color: #224F34; 
+}
+#button1{
+    color: #224F34;
+    background-color: #C2EFD4 ;
+    font-size: 15px;
+    padding: 7px 15px;
+}
+h1{
+    font-size: 60px;
+    color: #224F34;
+}
+p{
+    color: #224F34;
+    font-family: sans-serif;
+
+}
+.myclass{
+    background-color: #C2EFD4 ;
+}
+#button2{
+    font-size: 20px;
+    padding: 10px 24px;
+    background-color: #224F34 ;
+    color: white;
+}
+.text{
+    padding-right: 100px; 
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button3, #button31{
+    color: #224F34;
+    font-size: 20px;
+    padding: 10px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table {
+border-collapse: separate;
+border-spacing: 20px;
+}
+#footertable
+{
+    border-collapse: separate;
+}
